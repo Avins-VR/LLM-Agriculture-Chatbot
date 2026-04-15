@@ -29,7 +29,7 @@ Unlike general chatbots, this system is **domain-restricted**, meaning it only r
 - Python
 - Mistral AI API
 - Streamlit
-- Natural Language Processing (NLP)
+- Large Language Model (LLM)
 - LLM Prompt Engineering
 
 ---
