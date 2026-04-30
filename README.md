@@ -122,6 +122,6 @@ If the user asks **non-agriculture questions**, the chatbot will refuse to answe
 
 **Avins V R**  
 AI & Data Science Student  
-Aspiring Machine Learning Engineer
+AI & ML Developer
 
 GitHub: https://github.com/Avins-VR
